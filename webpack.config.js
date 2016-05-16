@@ -11,6 +11,6 @@ module.exports = {
   },
   output: {
     path: PATHS.build,
-    filename: 'bundle.js'
+    filename: '[name]-bundle.js'
   }
 };
